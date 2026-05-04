@@ -1,0 +1,8 @@
+.grupo-modelo h3 {
+  color: #555;
+  margin-bottom: 8px;
+  font-size: 1.8em;        /* antes 1.3em */
+  font-weight: 900;        /* añadido */
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}

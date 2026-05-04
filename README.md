@@ -1,1 +1,1 @@
-# QRs-Proyectores
+# QR-Proyectores.github.io
